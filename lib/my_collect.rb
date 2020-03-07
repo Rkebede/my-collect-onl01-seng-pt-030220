@@ -4,7 +4,7 @@ def my_collect(collection)
   new_collection = [ ]
   while
   collection.each do |lang|
-    
+  end
 end
  
 end
