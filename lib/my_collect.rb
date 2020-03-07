@@ -6,6 +6,7 @@ def my_collect(collection)
   while i < collection.length
     collection.each do |lang|
     end
+    yield(collection[i])
   end
  
 end
